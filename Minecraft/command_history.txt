@@ -1,0 +1,50 @@
+/msg Moving hi
+/ac vulcan
+/msg nvmlunar hi
+/give obsidian 64
+/ac
+/ac reflex verus
+/ac
+/give obsidian 64
+/give minecart
+/give obsidian 64
+/ac vanilla
+/give water_bucket
+/give cobweb 64
+/give web 64
+/give slime
+/give slime 64
+/ac verus ncp
+/settings
+/ac verus
+/ac
+/ac verus oncp
+/ac verus
+/give golden_apple 64
+/msg nvmlunar hi
+/give obsidian 64
+/ac vanil
+/ac vanila
+/ac vanilla
+/i obsidian 64
+/potion
+/i obsidian 64
+/ac verus
+/i obsidian 64
+/settings
+/i obsidian 64
+/ac
+/settings
+/ac
+/exbloit
+/i minecraft:writable_book 1
+/i obsidian 64
+/ac vanilla
+/ac verus
+/ac
+/settings
+/ac
+/i obsidian 64
+/leave
+/hub
+/mh
